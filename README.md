@@ -1,6 +1,6 @@
 # ffmpeg_for_android
 
-build ffmpeg for android
+build ffmpeg and 3rdparty libraries for android
 
 # Preparation
 
